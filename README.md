@@ -16,7 +16,7 @@ Component-based styling with custom CSS
 
 📸 Preview
 
-![Netflix Clone Screenshot](assets/images/netflix-clone screenshot.png) 
+![Netflix Clone Screenshot](assets/images/netflix-clone-screenshot.png) 
 
 <br>
 
