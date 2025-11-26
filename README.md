@@ -16,6 +16,12 @@ Component-based styling with custom CSS
 
 📸 Preview
 
-! [Netflix Clone Screenshot] (assets/images/netflix-clone screenshot.png) 
-! [Netflix Clone Animation] (assets/images/netflix-clone.gif) 
-! [Netflix Clone Responsive] (assets/images/netflix-clone-responsive.gif)
+![Netflix Clone Screenshot](assets/images/netflix-clone screenshot.png) 
+
+<br>
+
+![Netflix Clone Animation](assets/images/netflix-clone.gif) 
+
+<br>
+
+![Netflix Clone Responsive](assets/images/netflix-clone-responsive.gif)
